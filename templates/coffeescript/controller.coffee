@@ -9,9 +9,4 @@
 ###
 angular.module '<%= scriptAppName %>'
   .controller '<%= classedName %>Ctrl', ->
-    @awesomeThings = [
-      'HTML5 Boilerplate'
-      'AngularJS'
-      'Karma'
-    ]
     return
